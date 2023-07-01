@@ -1,0 +1,245 @@
+{
+	"version": "0.1.0",
+	"data": [
+		{
+			"question": "When was the Apple Vision Pro announced?",
+			"best_answer": "The Apple Vision Pro was announced on June 5, 2023."
+		},
+		{
+			"question": "What is the Apple Vision Pro?",
+			"best_answer": "The Apple Vision Pro is a mixed reality headset developed by Apple Inc."
+		},
+		{
+			"question": "What is the release date for the Apple Vision Pro?",
+			"best_answer": "The Apple Vision Pro is set to be available for purchase in 2024 in the United States."
+		},
+		{
+			"question": "How would you describe the Apple Vision Pro?",
+			"best_answer": "Apple describes the Vision Pro as a spatial computer that integrates digital media with the real world and allows interaction through motion gestures, eye tracking, and voice input."
+		},
+		{
+			"question": "What operating system does the Apple Vision Pro use?",
+			"best_answer": "The Apple Vision Pro runs on visionOS, a derivative of iOS designed for extended reality software."
+		},
+		{
+			"question": "What technology did Apple acquire in relation to the Apple Vision Pro?",
+			"best_answer": "Apple acquired Metaio, a German augmented reality (AR) company, which contributed to the development of the headset."
+		},
+		{
+			"question": "Who led the development of visionOS?",
+			"best_answer": "Geoff Stahl, a senior engineering manager, led the development of visionOS."
+		},
+		{
+			"question": "How many cameras does the Apple Vision Pro have?",
+			"best_answer": "The Apple Vision Pro has 12 cameras."
+		},
+		{
+			"question": "What is the resolution of the micro-OLED displays in the Apple Vision Pro?",
+			"best_answer": "The micro-OLED displays have a total of 23 megapixels."
+		},
+		{
+			"question": "How is eye tracking implemented in the Apple Vision Pro?",
+			"best_answer": "Eye tracking is achieved through a system of LEDs and infrared cameras."
+		},
+		{
+			"question": "What is the starting price of the Apple Vision Pro?",
+			"best_answer": "The starting price of the Apple Vision Pro is US$3,499."
+		},
+		{
+			"question": "What is the battery life of the Apple Vision Pro?",
+			"best_answer": "The Apple Vision Pro has a battery pack rated for two hours of use."
+		},
+		{
+			"question": "Can the Apple Vision Pro be powered by an external power supply or a Mac?",
+			"best_answer": "Yes, the Apple Vision Pro can be powered by an external power supply or a USB-C port on a Mac."
+		},
+		{
+			"question": "What is Optic ID?",
+			"best_answer": "Optic ID is the iris scanner of the Apple Vision Pro used for authentication, similar to iPhone's Face ID."
+		},
+		{
+			"question": "Can users with prescription glasses use the Apple Vision Pro?",
+			"best_answer": "Yes, custom optical inserts are supported, and they attach magnetically to the main lens in partnership with Carl Zeiss AG."
+		},
+		{
+			"question": "What is the purpose of the digital crown on the Apple Vision Pro?",
+			"best_answer": "The digital crown controls the amount of virtual background occupying the user's field of view."
+		},
+		{
+			"question": "What apps are compatible with the Apple Vision Pro?",
+			"best_answer": "Apple stated that hundreds of thousands of familiar iPhone and iPad apps will be compatible with the Apple Vision Pro. Specific apps showcased include Microsoft 365 suite, Adobe Lightroom, FaceTime, Webex, Zoom, and more."
+		},
+		{
+			"question": "Will there be support for gaming on the Apple Vision Pro?",
+			"best_answer": "Yes, over 100 Apple Arcade games will be compatible with the Vision Pro at launch."
+		},
+		{
+			"question": "What are some external peripherals supported by the Apple Vision Pro?",
+			"best_answer": "The Apple Vision Pro supports external Bluetooth peripherals such as the Magic Keyboard, Magic Trackpad, and gamepads."
+		},
+		{
+			"question": "What is the future of Apple's extended reality products?",
+			"best_answer": "Apple's extended reality headset, the Vision Pro, is considered a bridge to future lightweight augmented reality glasses, which are currently not technically feasible."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used with prescription lenses?",
+			"best_answer": "Yes, the Apple Vision Pro supports custom optical inserts for users with prescription glasses."
+		},
+		{
+			"question": "Does the Apple Vision Pro support hand tracking?",
+			"best_answer": "While specific details are not mentioned, the Apple Vision Pro is equipped with sensors that enable various forms of input, including potential hand tracking capabilities."
+		},
+		{
+			"question": "Are there any haptic feedback features in the Apple Vision Pro?",
+			"best_answer": "The available information does not mention haptic feedback features in the Apple Vision Pro."
+		},
+		{
+			"question": "Can the Apple Vision Pro be connected to other Apple devices?",
+			"best_answer": "The Apple Vision Pro is expected to integrate with other Apple devices and services, although specific details are not provided."
+		},
+		{
+			"question": "What is the field of view (FOV) of the Apple Vision Pro?",
+			"best_answer": "The field of view of the Apple Vision Pro is not mentioned in the available information."
+		},
+		{
+			"question": "Does the Apple Vision Pro support wireless connectivity?",
+			"best_answer": "The available information does not explicitly state whether the Apple Vision Pro supports wireless connectivity."
+		},
+		{
+			"question": "How does the Apple Vision Pro handle audio output?",
+			"best_answer": "The Apple Vision Pro has a speaker integrated into the headband, providing audio directly to the user's ears. It can also virtualize surround sound."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for productivity tasks like working on documents or presentations?",
+			"best_answer": "Yes, the Apple Vision Pro supports familiar iPhone and iPad apps, including productivity apps like Microsoft Word and Excel, as well as communication platforms like Microsoft Teams."
+		},
+		{
+			"question": "What is the weight of the Apple Vision Pro?",
+			"best_answer": "The weight of the Apple Vision Pro is not specified in the available information."
+		},
+		{
+			"question": "Can users adjust the IPD (interpupillary distance) on the Apple Vision Pro?",
+			"best_answer": "Details regarding the ability to adjust the IPD on the Apple Vision Pro are not provided."
+		},
+		{
+			"question": "Does the Apple Vision Pro support room-scale tracking?",
+			"best_answer": "The available information does not mention specific details about room-scale tracking capabilities."
+		},
+		{
+			"question": "Is the Apple Vision Pro designed for consumer or enterprise use?",
+			"best_answer": "While the available information does not explicitly state the target audience, it suggests that the Apple Vision Pro is intended for both consumer and professional use."
+		},
+		{
+			"question": "What type of content creation tools are available for the Apple Vision Pro?",
+			"best_answer": "Specific information about content creation tools for the Apple Vision Pro is not provided."
+		},
+		{
+			"question": "Does the Apple Vision Pro have a built-in microphone for voice input?",
+			"best_answer": "Yes, the Apple Vision Pro is equipped with six microphones for audio input, including voice commands."
+		},
+		{
+			"question": "Can users interact with the Apple Vision Pro using hand gestures?",
+			"best_answer": "The available information mentions motion gestures as one of the input methods, suggesting the possibility of interacting with the device using hand gestures."
+		},
+		{
+			"question": "How does the Apple Vision Pro handle locomotion in virtual environments?",
+			"best_answer": "The available information does not mention specific details about locomotion in virtual environments with the Apple Vision Pro."
+		},
+		{
+			"question": "Are there any privacy features in the Apple Vision Pro?",
+			"best_answer": "The available information does not specify privacy features of the Apple Vision Pro."
+		},
+		{
+			"question": "What types of games and gaming experiences are available for the Apple Vision Pro?",
+			"best_answer": "The Apple Vision Pro is expected to support a wide range of gaming experiences, including over 100 Apple Arcade games at launch, but specific details are not provided."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for video conferencing?",
+			"best_answer": "Yes, the Apple Vision Pro supports video conferencing apps like FaceTime, Webex, and Zoom, allowing users to participate in virtual meetings."
+		},
+		{
+			"question": "Does the Apple Vision Pro require external sensors for positional tracking?",
+			"best_answer": "The available information does not mention the need for external sensors for positional tracking with"
+		},
+		{
+			"question": "What is the display resolution of the Apple Vision Pro?",
+			"best_answer": "The available information does not specify the display resolution of the Apple Vision Pro."
+		},
+		{
+			"question": "Is the Apple Vision Pro water-resistant or waterproof?",
+			"best_answer": "The available information does not mention water resistance or waterproof capabilities of the Apple Vision Pro."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used with gaming consoles or PCs?",
+			"best_answer": "The available information does not provide details about compatibility with gaming consoles or PCs."
+		},
+		{
+			"question": "How long does the battery of the Apple Vision Pro last?",
+			"best_answer": "The battery life of the Apple Vision Pro is not mentioned in the available information."
+		},
+		{
+			"question": "Does the Apple Vision Pro support gesture recognition?",
+			"best_answer": "Yes, the Apple Vision Pro supports motion gestures as one of the input methods for interacting with the system."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for watching movies or streaming content?",
+			"best_answer": "Yes, the Apple Vision Pro supports various media applications, including video streaming services, for a personalized viewing experience."
+		},
+		{
+			"question": "What is the latency rate of the Apple Vision Pro?",
+			"best_answer": "The available information does not specify the latency rate of the Apple Vision Pro."
+		},
+		{
+			"question": "Are there any specific accessibility features in the Apple Vision Pro?",
+			"best_answer": "The available information does not mention specific accessibility features of the Apple Vision Pro."
+		},
+		{
+			"question": "Can multiple Apple Vision Pro headsets be connected for multiplayer experiences?",
+			"best_answer": "The available information does not provide details about connecting multiple headsets for multiplayer experiences."
+		},
+		{
+			"question": "Does the Apple Vision Pro support wireless charging?",
+			"best_answer": "The available information does not mention wireless charging capabilities of the Apple Vision Pro."
+		},
+		{
+			"question": "Are there any limitations on the compatibility of iPhone models with the Apple Vision Pro?",
+			"best_answer": "Specific details about iPhone model compatibility are not provided in the available information."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for educational purposes?",
+			"best_answer": "Yes, the Apple Vision Pro can support educational applications and experiences, but specific details are not mentioned."
+		},
+		{
+			"question": "What type of content creation tools are available for developers working with the Apple Vision Pro?",
+			"best_answer": "The available information does not specify the content creation tools available for developers working with the Apple Vision Pro."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for fitness or exercise applications?",
+			"best_answer": "The available information does not mention specific fitness or exercise applications for the Apple Vision Pro."
+		},
+		{
+			"question": "Does the Apple Vision Pro support facial recognition for user authentication?",
+			"best_answer": "Yes, the Apple Vision Pro utilizes an iris scanner named Optic ID for authentication, similar to Face ID on iPhones."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used with third-party virtual reality (VR) or augmented reality (AR) apps?",
+			"best_answer": "The available information suggests that the Apple Vision Pro will support a range of familiar iPhone and iPad apps, but specific details about third-party app compatibility are not mentioned."
+		},
+		{
+			"question": "Are there any plans for international availability of the Apple Vision Pro?",
+			"best_answer": "The available information does not mention specific plans for international availability beyond the United States."
+		},
+		{
+			"question": "Does the Apple Vision Pro support simultaneous localization and mapping (SLAM) for spatial tracking?",
+			"best_answer": "Specific details about the spatial tracking capabilities of the Apple Vision Pro, including SLAM, are not provided."
+		},
+		{
+			"question": "Can the Apple Vision Pro be used for virtual tours or immersive experiences?",
+			"best_answer": "Yes, the Apple Vision Pro is expected to support various virtual tour and immersive experiences, but specific details are not mentioned."
+		},
+		{
+			"question": "Does the Apple Vision Pro support voice commands for system navigation?",
+			"best_answer": "Yes, the Apple Vision Pro supports voice input as one of the interaction methods for navigating the system."
+		}
+	]
+}
